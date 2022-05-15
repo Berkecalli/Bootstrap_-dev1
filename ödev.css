@@ -1,0 +1,15 @@
+ul {
+    list-style-position: inside;
+    
+}
+span {
+    background:grey ;
+    color: aliceblue;
+}
+
+.padding {
+    padding-bottom: 20px;
+}
+.color {
+   color: blueviolet;
+}
